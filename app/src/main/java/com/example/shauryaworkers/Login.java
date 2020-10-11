@@ -30,6 +30,7 @@ public class Login extends AppCompatActivity {
          btn = findViewById(R.id.textViewSignUp);
         inputemail=findViewById(R.id.inputUser);
         inputpass=findViewById(R.id.inputpass);
+
         btnLogin=findViewById(R.id.btnLogin);
         mauth=FirebaseAuth.getInstance();
         mLoadingBar = new ProgressDialog(Login.this);
