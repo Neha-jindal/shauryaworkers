@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "499161838985",
+    "firebase_url": "https://shaurya-workers.firebaseio.com",
+    "project_id": "shaurya-workers",
+    "storage_bucket": "shaurya-workers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499161838985:android:e7067d4e7380065ea05d58",
+        "android_client_info": {
+          "package_name": "com.example.shauryaworkers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499161838985-2jkjh4h2get5tfr5m4mklh863i3houbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZa7RO0RCP8VB8ehc53t2UcIq1DUXPZ-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499161838985-2jkjh4h2get5tfr5m4mklh863i3houbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
